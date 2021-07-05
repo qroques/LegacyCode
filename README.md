@@ -37,4 +37,4 @@ SANS TOUCHER AU FICHIER **index.php**, faire en sorte que l’application renvoi
 
 Soumettre une pull request permettant de corriger le code actuel ;
 
-note: Une version de PHP `7.4` minimum est requise pour fair fonctionner le script.
+note: Une version de PHP `7.4` minimum est requise pour faire fonctionner le script.
